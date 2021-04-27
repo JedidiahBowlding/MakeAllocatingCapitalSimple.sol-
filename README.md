@@ -1,0 +1,1 @@
+# MakeAllocatingCapitalSimple.sol-
